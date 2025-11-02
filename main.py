@@ -92,9 +92,9 @@ def send_email():
     Send an email notification.
     """
     # Email configuration
-    sender_email = "smwangilewis@gmail.com"
-    receiver_email = "mickelo111@gmail.com"
-    password = "aebi wdxy jmsr xzza"
+    sender_email = "PUT SENDER EMAIL"
+    receiver_email = "PUT RECEIVER EMAIL"
+    password = "YOUR PASSWORD"
 
     # SMTP server configuration (for Gmail)
     smtp_server = "smtp.gmail.com"
